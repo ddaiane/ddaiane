@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 
 <!--![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ddaiane&hide=php&theme=tokyonight) -->
 
-<center>     <table align="center">       <tr>           <td>               <img width="900px" align="center" src="https://github-readme-stats.vercel.app/api?username=ddaiane&count_private=true&hide_border=true&theme=tokyonight" />           </td>           <td>               <img align="center" width="850px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaiane&layout=compact&hide_border=true&theme=tokyonight" />                   </td>       </tr>       </table> 
+<center>     
+  <table align="center">       
+    <tr>           
+      <td>               
+        <img align="center" width="850px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaiane&layout=compact&hide_border=true&theme=tokyonight" />                   </td>       
+    </tr>       
+  </table> 
 </center>
